@@ -9,5 +9,4 @@ def mean(number):
         digit_count += 1
 
     mean_value = total_sum / digit_count
-
     return mean_value
