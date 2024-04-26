@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/python-core-1-DavydKuzovekov.iml" filepath="$PROJECT_DIR$/.idea/python-core-1-DavydKuzovekov.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/python-core-1-DavydKuzovekovfhdsj.iml" filepath="$PROJECT_DIR$/.idea/python-core-1-DavydKuzovekovfhdsj.iml" />
+>>>>>>> origin/master
     </modules>
   </component>
 </project>
