@@ -4,3 +4,4 @@ def calculate_fuel(distance):
     if fuel < 100:  # Перевіряємо, чи не менше за 100 літрів
         return 100
     return fuel
+
