@@ -1,3 +1,2 @@
 def both(number1, number2):
-  # Type your code
-  return
+  return (number1 < 0 and number2 < 0) or (number1 > 0 and number2 > 0) or (number1 == 0 and number2 == 0)
